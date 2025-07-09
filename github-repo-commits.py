@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -----------------------------------------
-# Written by http://www.ryanyonzon.com/
+# Written by https://github.com/ryanyonzon
 # -----------------------------------------
 
 import argparse
